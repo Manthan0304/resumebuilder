@@ -8,7 +8,7 @@ import com.example.resumebuilder.models.JobResponse
 import com.example.resumebuilder.models.Resume
 import retrofit2.Response
 import retrofit2.http.Body
-import retrofit2.http.DELETE
+import retrofit2.http.DELETE 
 import retrofit2.http.GET
 import retrofit2.http.POST
 import retrofit2.http.PUT
